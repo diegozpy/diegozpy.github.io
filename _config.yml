@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://diegozpy.github.io
+title: Diego Fernando ospina
+tagline: Dura Lex, Sed Lex
+description: Blog Personal
+paginate: 5
